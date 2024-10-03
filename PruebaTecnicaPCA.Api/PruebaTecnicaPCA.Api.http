@@ -1,0 +1,6 @@
+@PruebaTecnicaPCA.Api_HostAddress = http://localhost:5172
+
+GET {{PruebaTecnicaPCA.Api_HostAddress}}/api/Vuelo/
+Accept: application/json
+
+###
